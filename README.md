@@ -5,7 +5,7 @@
 * Computer Science
 * Python
 * Functional Programming
-* Typescript latelty
+* Typescript lately
 * AWS
 * AI
 
