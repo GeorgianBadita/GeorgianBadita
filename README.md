@@ -6,7 +6,7 @@
 * Python
 * Functional Programming
 * Typescript lately
-* AWS
+* AWS (Amazon Web Services)
 * AI
 
 ### I'm currently learning 🤔
