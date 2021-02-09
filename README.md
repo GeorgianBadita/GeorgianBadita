@@ -12,6 +12,7 @@
 ### I'm currently learning 🤔
 * Haskell
 * Developing highly data intensive applications with AWS
+* Secure remote code execution
 
 ### I'm currently improving 📈
 * My React skills
