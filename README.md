@@ -17,6 +17,7 @@
 ### I'm currently improving 📈
 * My React skills
 * My Typescript skills
+* My AWS skills
 
 ### Languages and Frameworks 🔨
 ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
