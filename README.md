@@ -10,7 +10,6 @@
 * AI
 
 ### I'm currently learning 🤔
-* Haskell
 * Developing highly data intensive applications with AWS
 * Secure remote code execution
 
