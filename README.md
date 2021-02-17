@@ -12,6 +12,7 @@
 ### I'm currently learning 🤔
 * Developing highly data intensive applications with AWS
 * Secure remote code execution
+* Typescript
 
 ### I'm currently improving 📈
 * My React skills
